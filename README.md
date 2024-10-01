@@ -2,7 +2,7 @@
 
 **Author:**  [Yingjie Zhou](https://scholar.google.com/citations?user=85yWgIcAAAAJ&hl=zh-CN) / **Email:** zyj2000@sjtu.edu.cn / **Institution:** Shanghai Jiao Tong University
 
-**Github:** [zyj2000](https://github.com) / **HuggingFace:**[zyj2000](https://huggingface.co/zyj2000)
+**Github:** [zyj2000](https://github.com/zyj-2000/) / **HuggingFace:**[zyj2000](https://huggingface.co/zyj2000)
 
 **Thank you for your interest in this project, please feel free to contact me by Email if you have any questions.**
 
