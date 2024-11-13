@@ -25,6 +25,16 @@
 
 ## More info is coming soon... 
 
+## Citation
+```
+@article{zhou20243dgcqa,
+  title={3DGCQA: A Quality Assessment Database for 3D AI-Generated Contents},
+  author={Zhou, Yingjie and Zhang, Zicheng and Wen, Farong and Jia, Jun and Jiang, Yanwei and Liu, Xiaohong and Min, Xiongkuo and Zhai, Guangtao},
+  journal={arXiv preprint arXiv:2409.07236},
+  year={2024}
+}
+```
+
 
 
 
